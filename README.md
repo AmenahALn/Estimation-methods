@@ -4,7 +4,7 @@ Given the significance of heavy-tailed distributions in risk assessment and fina
 #### 1. Asymptotic Normality
 * We have proved the asymptotic normality properties of our estimation method, providing rigorous evidence for its reliability. The accompanying figures visually demonstrate these properties, offering a clear illustration of the robustness and accuracy of our approach.
 <div style="display: flex;">
-  <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/return.JPG" alt="First Image" style="width: 40%;">
+  <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/Asymptotic_sigma.jpg" alt="First Image" style="width: 40%;">
   <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/return_2.JPG" alt="Second Image" style="width: 40%;">
 </div>
 #### 3. Prediction of the Spread
