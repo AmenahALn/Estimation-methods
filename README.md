@@ -7,6 +7,7 @@ Given the significance of heavy-tailed distributions in risk assessment and fina
   <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/Asymptotic_sigma.jpg" alt="First Image" style="width: 40%;">
   <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/Bootstrap_k.jpg" alt="Second Image" style="width: 40%;">
 </div>
+
 #### 2. Insurince data
 * We utilized insurance data to evaluate the performance and effectiveness of our estimator. The figure below demonstrates the suitability of our estimator in capturing the characteristics of the insurance data, thereby showcasing its reliability and accuracy.
-<img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/three.JPG" alt="Image" width="350" height="250">
+<img src="https://github.com/AmenahALn/Estimation-methods/blob/main/fit.JPG" alt="Image" width="350" height="250">
