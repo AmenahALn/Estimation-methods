@@ -11,3 +11,6 @@ Given the significance of heavy-tailed distributions in risk assessment and fina
 #### 2. Insurince data
 * We utilized insurance data to evaluate the performance and effectiveness of our estimator. The figure below demonstrates the suitability of our estimator in capturing the characteristics of the insurance data, thereby showcasing its reliability and accuracy.
 <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/fit.JPG" alt="Image" width="350" height="250">
+
+* Our estimation method involved the consideration of multiple parameters, and we employed various techniques to determine the optimal values for these parameters. The diagram presented below illustrates the range of values that were explored and investigated during the study, ensuring a comprehensive analysis of the problem.
+<img src="https://github.com/AmenahALn/Estimation-methods/blob/main/fit.JPG" alt="Image" width="350" height="250">
