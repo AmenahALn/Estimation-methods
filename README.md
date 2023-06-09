@@ -5,7 +5,7 @@ Given the significance of heavy-tailed distributions in risk assessment and fina
 * We have proved the asymptotic normality properties of our estimation method, providing rigorous evidence for its reliability. The accompanying figures visually demonstrate these properties, offering a clear illustration of the robustness and accuracy of our approach.
 <div style="display: flex;">
   <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/Asymptotic_sigma.jpg" alt="First Image" style="width: 40%;">
-  <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/return_2.JPG" alt="Second Image" style="width: 40%;">
+  <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/Bootstrap_k.jpg" alt="Second Image" style="width: 40%;">
 </div>
 #### 3. Prediction of the Spread
 * We employed the Gaussian2 model to estimate the value and timing of the expected peak for two different scenarios.
