@@ -8,6 +8,5 @@ Given the significance of heavy-tailed distributions in risk assessment and fina
   <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/Bootstrap_k.jpg" alt="Second Image" style="width: 40%;">
 </div>
 #### 2. Insurince data
-* We employed the Gaussian2 model to estimate the value and timing of the expected peak for two different scenarios.
-* The following Figure depicts the daily cases with three expected maximum peak values and their corresponding timing.
+* We utilized insurance data to evaluate the performance and effectiveness of our estimator. The figure below demonstrates the suitability of our estimator in capturing the characteristics of the insurance data, thereby showcasing its reliability and accuracy.
 <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/three.JPG" alt="Image" width="350" height="250">
