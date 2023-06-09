@@ -7,7 +7,7 @@ Given the significance of heavy-tailed distributions in risk assessment and fina
   <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/Asymptotic_sigma.jpg" alt="First Image" style="width: 40%;">
   <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/Bootstrap_k.jpg" alt="Second Image" style="width: 40%;">
 </div>
-#### 3. Prediction of the Spread
+#### 3.  of the Spread
 * We employed the Gaussian2 model to estimate the value and timing of the expected peak for two different scenarios.
 * The following Figure depicts the daily cases with three expected maximum peak values and their corresponding timing.
 <img src="https://github.com/AmenahALn/Risk-based-Modeling-and-Prediction/blob/main/three.JPG" alt="Image" width="350" height="250">
