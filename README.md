@@ -1,5 +1,5 @@
 ## Estimation-methods
-Given the significance of heavy-tailed distributions in risk assessment and financial analysis, our focus has been on introducing a novel estimator for the parameter of the Pareto distribution. It is worth noting that all the results presented in this project have been derived and implemented using MATLAB and Python, ensuring the accuracy and reproducibility of our findings
+Given the significance of heavy-tailed distributions in risk assessment and financial analysis, our focus has been on introducing a novel estimator for the parameter of the Pareto distribution. It is worth noting that all the results presented in this project have been derived and implemented using **MATLAB** and **Python**, ensuring the accuracy and reproducibility of our findings
 
 #### 1. Asymptotic Normality
 * We have proved the asymptotic normality properties of our estimation method, providing rigorous evidence for its reliability. The accompanying figures visually demonstrate these properties, offering a clear illustration of the robustness and accuracy of our approach.
