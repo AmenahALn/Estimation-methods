@@ -16,4 +16,4 @@ Given the significance of heavy-tailed distributions in risk assessment and fina
 <img src="https://github.com/AmenahALn/Estimation-methods/blob/main/est_dist.JPG" alt="Image" width="350" height="250">
 
 * We conducted the analysis using different sample sizes to explore their impact on the results. The figure below showcases a selection of these samples and highlights the optimal sample size that best captures the data's underlying patterns and provides the most accurate fit.
-<img src="https://github.com/AmenahALn/Estimation-methods/blob/main/est_dist.JPG" alt="Image" width="350" height="250">
+<img src="https://github.com/AmenahALn/Estimation-methods/blob/main/diff_value.JPG" alt="Image" width="350" height="250">
